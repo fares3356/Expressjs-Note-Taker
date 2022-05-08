@@ -16,7 +16,7 @@ Navigate to the developer-profile-generator folder using the command prompt.
 
 Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. 
 
-If you want the easier way, this application is [live on Heroku](https://whispering-woodland-84908.herokuapp.com/).
+If you want the easier way, this application is [live on Heroku](https://fa-note-taker.herokuapp.com/).
 
 ## Preview:
 ![Application Preview](demo.gif)
