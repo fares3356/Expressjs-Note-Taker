@@ -22,7 +22,7 @@ If you want the easier way, this application is [live on Heroku](https://fa-note
 ![Application Preview](demo.gif)
 
 ## Deployed Link:
-[Note Taker App](https://whispering-woodland-84908.herokuapp.com/)
+[Note Taker App](https://fa-note-taker.herokuapp.com/)
 
 ## Learning Points:
 * This app was a practice in writing the backend code only and then integrating it with provided front end code (index.html, notes.html, and custom jQuery)
